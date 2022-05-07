@@ -21,6 +21,8 @@
             "tabel"             => 'طاولة',
             "person"            => 'شخص',
             "TableStatusArea"   =>  'قائمة حالات الطاولات',
+            // CATEGORY PAGE
+            "category"          =>  'الأقسام',
         ) ;
         return $lang[$val] ; 
     }

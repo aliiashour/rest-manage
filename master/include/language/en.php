@@ -21,6 +21,9 @@
             "tabel"             => 'tabel',
             "person"            => 'person',
             "TableStatusArea"   =>  'Table Status Area',
+            // CATEGORY PAGE
+            "category"          =>  'category',
+
         ) ;
         return $lang[$val] ; 
     }
